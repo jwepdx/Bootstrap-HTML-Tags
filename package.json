@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-html-tags",
+  "version": "1.0.0",
+  "description": "Custom HTML Tags For Bootstrap 4",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "contributers": {
+    "name": "Jacob Evans",
+    "email": "",
+    "url": "https://github.com/jwepdx"
+  },
+  "license": "MIT",
+  "private": "true",
+  "devDependencies": {
+    "acorn": "^6.0.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "standard": "^12.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwepdx/Bootstrap-HTML-Tags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwepdx/Bootstrap-HTML-Tags/issues"
+  },
+  "homepage": "https://github.com/jwepdx/Bootstrap-HTML-Tags#readme"
+}
